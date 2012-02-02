@@ -3,5 +3,8 @@
 *.html
 *.tmproj
 *.out
+*~
+*.swp
 tmp/
+.eunit/
 
